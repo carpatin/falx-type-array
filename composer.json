@@ -1,0 +1,12 @@
+{
+    "name": "dan-homorodean/falx-type-array",
+    "description": "Various PHP Array classes",
+    "minimum-stability": "dev",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dan Homorodean",
+            "email": "dan.homorodean@gmail.com"
+        }
+    ]
+}
