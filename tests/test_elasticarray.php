@@ -4,7 +4,7 @@ include 'config.php';
 
 use Falx\Type\Arrays\ElasticArray;
 
-// test using the default sized inner fixed : 10
+// Test using the default sized inner fixed : 10
 
 $array = new ElasticArray();
 
